@@ -53,7 +53,7 @@ return [
     | Examples: "/assets", "myurl.com/app".
     |
     */
-    'asset_url' => 'http://127.0.0.1:8000',
+    'asset_url' => 'https://phplaravel-891484-3091498.cloudwaysapps.com/',
     // 'asset_url' => 'http://192.168.0.15/fedecom/public',
 
     /*
